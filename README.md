@@ -1,4 +1,4 @@
-OpenEpi.com
+OpenEpi
 ===========
 
 Open Source Epidemiologic Statistics for Public Health
